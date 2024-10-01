@@ -1,0 +1,30 @@
+html {
+  background: #ffd294;
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-family: monospace;
+}
+
+h3 {
+  text-decoration-line: underline;
+  font-family: monospace;
+}
+
+p {
+  font-family: monospace;
+}
+
+ul {
+  font-family: monospace;
+}
+
+ol {
+  font-family: monospace;
+}
+
+figcaption {
+  font-family: monospace;
+}
